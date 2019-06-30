@@ -1,0 +1,13 @@
+{
+	"interval": 1,
+	"warning": true,
+	"seed": 0,
+	"dir": "data/",
+	"roadnetFile": "2x2/roadnet.json",
+	"flowFile": "2x2/flow.json",
+	"rlTrafficLight": true,
+	"laneChange": false,
+	"saveReplay": true,
+	"roadnetLogFile": "frontend/web/roadnet.json",
+	"replayLogFile": "frontend/web/replay.txt"
+}
