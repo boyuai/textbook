@@ -1,7 +1,1 @@
-## Instructions
-
-For each task
-- create a folder for this task 
-  - create a data folder
-  - create a folder for each algorithm
-    - a runnable notebook file
+# 人工智能实践：动手做你自己的AI 参考代码
